@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click to see the solution](https://github.com/SAAJEVES/FrontendMentor-challenge-on-JS-J02)
-- Live Site URL: [Click to visit the webpage of the project](https://your-live-site-url.com)
+- Live Site URL: [Click to visit the webpage of the project](https://saajeves.github.io/FrontendMentor-challenge-on-JS-J02/)
 
 ## My process
 
